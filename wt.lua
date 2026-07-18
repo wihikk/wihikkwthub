@@ -17,7 +17,7 @@ local settings = {
     tracers = false, clickTp = false,
     vehicleEsp = false, submarineEsp = true, uavEsp = true, 
     ugvEsp = true,
-    teamCheck = true, noclip = false, fly = false, flySpeed = 250
+    teamCheck = true, noclip = false, fly = false, flySpeed = 250,
     autoAirdrop = false, autoDrone = false,
     binds = { aimbot = nil, fly = nil, noclip = nil, clickTp = nil }
 }
